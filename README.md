@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on RPA Development at WIPRO/IVIA
+- 🔭 I’m currently working Full Stack Javascript Developer | MongoDB | AWS
 - 🌱 I’m currently learning about Blueprism, Javascript Full Stack, IA and ML
 - 👯 I’m looking to collaborate on anything about what i'm learning
 - 💬 Ask me about anything you want 😄
